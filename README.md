@@ -18,7 +18,7 @@ https://www.datos.gov.co/Seguridad-y-Defensa/Delitos-en-Bucaramanga-enero-2010-a
 https://colab.research.google.com/drive/1OLs2z41svmvXs2C3TZhaPEXwm7RZffY3?usp=sharing
 
 # Modelos implementados:
-Aprendizaje no supervazado utilizando el método de K-means.
+Aprendizaje no supervisado utilizando el método de K-means.
 
 # Link del video de presentación:
 https://youtu.be/tCP-L1WbiBU
