@@ -2,9 +2,9 @@
 
 
 # Autores:
-Juan Felipe Vásquez - 2172013
-María Fernanda Rodríguez - 2172711
-Marly Maldonado - 2172712
+Juan Felipe Vásquez - 2172013.
+María Fernanda Rodríguez - 2172711.
+Marly Maldonado - 2172712.
 
 
 # Objetivos:
